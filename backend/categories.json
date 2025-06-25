@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Bills & Utilities",
+    "icon": "receipt-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Rentals",
+    "icon": "home-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Water Bill",
+    "icon": "water-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Phone Bill",
+    "icon": "call-outline",
+    "type": "expense",
+    "color": "#C74032",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Electricity Bill",
+    "icon": "flash-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Gas Bill",
+    "icon": "flame-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Television Bill",
+    "icon": "tv-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Internet Bill",
+    "icon": "wifi-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Other Utility Bills",
+    "icon": "document-text-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Bills & Utilities"
+  },
+  {
+    "name": "Shopping",
+    "icon": "cart-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Personal Items",
+    "icon": "person-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Shopping"
+  },
+  {
+    "name": "Houseware",
+    "icon": "home-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Shopping"
+  },
+  {
+    "name": "Makeup",
+    "icon": "sparkles-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Shopping"
+  },
+  {
+    "name": "Family",
+    "icon": "people-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Home Maintenance",
+    "icon": "hammer-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Family"
+  },
+  {
+    "name": "Home Services",
+    "icon": "home-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Family"
+  },
+  {
+    "name": "Pets",
+    "icon": "paw-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Family"
+  },
+  {
+    "name": "Transportation",
+    "icon": "car-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Vehicle Maintenance",
+    "icon": "build-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Transportation"
+  },
+  {
+    "name": "Health & Fitness",
+    "icon": "fitness-outline",
+    "type": "expense",
+    "color": "#C74032",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Medical Check-up",
+    "icon": "medkit-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Health & Fitness"
+  },
+  {
+    "name": "Fitness",
+    "icon": "barbell-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Health & Fitness"
+  },
+  {
+    "name": "Education",
+    "icon": "school-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Entertainment",
+    "icon": "game-controller-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Streaming Service",
+    "icon": "card-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Entertainment"
+  },
+  {
+    "name": "Fun Money",
+    "icon": "game-controller-outline",
+    "type": "expense",
+    "color": "#4D96FF",
+    "isDefault": true,
+    "isActive": true,
+    "parent": "Entertainment"
+  },
+  {
+    "name": "Gifts & Donations",
+    "icon": "gift-outline",
+    "type": "expense",
+    "color": "#43AA8B",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Insurances",
+    "icon": "shield-checkmark-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Investment",
+    "icon": "trending-up-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Other Expense",
+    "icon": "cube-outline",
+    "type": "expense",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Outgoing transfer",
+    "icon": "arrow-up-outline",
+    "type": "expense",
+    "color": "#C74032",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Pay Interest",
+    "icon": "percent-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Uncategorized Expense",
+    "icon": "ellipsis-horizontal-outline",
+    "type": "expense",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Salary",
+    "icon": "cash-outline",
+    "type": "income",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Other Income",
+    "icon": "cube-outline",
+    "type": "income",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Incoming transfer",
+    "icon": "arrow-down-outline",
+    "type": "income",
+    "color": "#C74032",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Collect Interest",
+    "icon": "percent-outline",
+    "type": "income",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Uncategorized Income",
+    "icon": "ellipsis-horizontal-outline",
+    "type": "income",
+    "color": "#F9C74F",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Loan",
+    "icon": "arrow-back-outline",
+    "type": "debt_loan",
+    "color": "#FF9999",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Repayment",
+    "icon": "cash-outline",
+    "type": "debt_loan",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Debt Collection",
+    "icon": "hand-right-outline",
+    "type": "debt_loan",
+    "color": "#3D5A80",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  },
+  {
+    "name": "Debt",
+    "icon": "arrow-forward-outline",
+    "type": "debt_loan",
+    "color": "#77DDFF",
+    "isDefault": true,
+    "isActive": true,
+    "parent": null
+  }
+]

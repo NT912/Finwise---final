@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cash",
+    "balance": 5000000,
+    "currency": "VND",
+    "icon": "cash-outline",
+    "color": "#2ecc71",
+    "isIncludedInTotal": true,
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6"
+  },
+  {
+    "name": "Bank Account",
+    "balance": 15000000,
+    "currency": "VND",
+    "icon": "card-outline",
+    "color": "#3498db",
+    "isIncludedInTotal": true,
+    "isDefault": false,
+    "userId": "67f3d3f45f3aa98b76aac0a6"
+  },
+  {
+    "name": "Savings",
+    "balance": 30000000,
+    "currency": "VND",
+    "icon": "wallet-outline",
+    "color": "#9b59b6",
+    "isIncludedInTotal": true,
+    "isDefault": false,
+    "userId": "67f3d3f45f3aa98b76aac0a6"
+  },
+  {
+    "name": "Investment",
+    "balance": 20000000,
+    "currency": "VND",
+    "icon": "trending-up-outline",
+    "color": "#f39c12",
+    "isIncludedInTotal": false,
+    "isDefault": false,
+    "userId": "67f3d3f45f3aa98b76aac0a6"
+  },
+  {
+    "name": "Credit Card",
+    "balance": -2000000,
+    "currency": "VND",
+    "icon": "card-outline",
+    "color": "#e74c3c",
+    "isIncludedInTotal": true,
+    "isDefault": false,
+    "userId": "67f3d3f45f3aa98b76aac0a6"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Food",
+    "icon": "restaurant-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 1500000,
+    "transactionCount": 8
+  },
+  {
+    "name": "Transport",
+    "icon": "bus-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 800000,
+    "transactionCount": 5
+  },
+  {
+    "name": "Medicine",
+    "icon": "medical-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 500000,
+    "transactionCount": 2
+  },
+  {
+    "name": "Groceries",
+    "icon": "basket-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 1200000,
+    "transactionCount": 6
+  },
+  {
+    "name": "Rent",
+    "icon": "home-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 5000000,
+    "transactionCount": 1
+  },
+  {
+    "name": "Gifts",
+    "icon": "gift-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 500000,
+    "transactionCount": 2
+  },
+  {
+    "name": "Savings",
+    "icon": "wallet-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 2000000,
+    "transactionCount": 3
+  },
+  {
+    "name": "Entertainment",
+    "icon": "ticket-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "budget": 1000000,
+    "transactionCount": 4
+  },
+  {
+    "name": "More",
+    "icon": "add-outline",
+    "color": "#63B0FF",
+    "type": "expense",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "transactionCount": 0
+  },
+  {
+    "name": "Salary",
+    "icon": "cash-outline",
+    "color": "#63B0FF",
+    "type": "income",
+    "isDefault": true,
+    "userId": "67f3d3f45f3aa98b76aac0a6",
+    "transactionCount": 1
+  }
+]
