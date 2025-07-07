@@ -167,15 +167,15 @@ finwise-app/
 
 - Thêm, sửa, xóa giao dịch
 - Phân loại theo danh mục
+- Gắn thẻ và ghi chú
 - Tìm kiếm và lọc giao dịch
-- Xuất báo cáo
 
 ### 📊 Phân tích & Báo cáo
 
 - Biểu đồ thu chi theo thời gian
 - Phân tích chi tiêu theo danh mục
-- So sánh tháng/ năm
-- Dự báo chi tiêu
+- Báo cáo hàng tháng/năm
+- Xuất báo cáo PDF
 
 ### 🎯 Kế hoạch Ngân sách
 
@@ -184,25 +184,55 @@ finwise-app/
 - Cảnh báo khi vượt ngân sách
 - Đề xuất tiết kiệm
 
+### 💰 Quản lý Ví
+
+- Tạo nhiều ví khác nhau
+- Chuyển tiền giữa các ví
+- Theo dõi số dư từng ví
+- Lịch sử giao dịch
+
 ### 🔒 Bảo mật
 
 - Xác thực JWT
 - Mã hóa mật khẩu
-- Bảo vệ API endpoints
-- Quản lý phiên đăng nhập
+- Bảo vệ dữ liệu người dùng
+- Backup tự động
+
+---
+
+## 🚀 Triển khai
+
+### Backend (Heroku/Vercel)
+
+```bash
+# Cấu hình environment variables
+# Deploy với Git
+git push heroku main
+```
+
+### Frontend (Expo)
+
+```bash
+# Build cho production
+expo build:android
+expo build:ios
+
+# Publish lên Expo
+expo publish
+```
 
 ---
 
 ## 🤝 Đóng góp
 
-Chúng tôi rất hoan nghênh mọi đóng góp! Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết.
+Chúng tôi rất hoan nghênh mọi đóng góp! Vui lòng đọc hướng dẫn đóng góp trước khi bắt đầu.
 
 ### Quy trình đóng góp
 
 1. Fork dự án
 2. Tạo feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
+4. Push lên branch (`git push origin feature/AmazingFeature`)
 5. Mở Pull Request
 
 ---
@@ -213,31 +243,17 @@ Dự án này được phân phối dưới giấy phép MIT. Xem `LICENSE` đ�
 
 ---
 
-## 👥 Đội ngũ phát triển
-
-<div align="center">
-
-**FinWise Team** 🚀
-
-_Xây dựng tương lai tài chính thông minh_
-
-</div>
-
----
-
 ## 📞 Liên hệ
 
-- **Email**: tt912002@gmail.com
-- **GitHub**: https://github.com/NT912/Finwise---final
+- **Tác giả**: NhaTruong
+- **Email**: your-email@example.com
+- **GitHub**: [@NT912](https://github.com/NT912)
 
 ---
 
 <div align="center">
 
-**⭐ Nếu dự án này hữu ích, hãy cho chúng tôi một ngôi sao! ⭐**
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/finwise-app?style=social)](https://github.com/your-username/finwise-app)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/finwise-app?style=social)](https://github.com/your-username/finwise-app)
+_Xây dựng tương lai tài chính thông minh_
 
 _Made with ❤️ by NhaTruong_
 
