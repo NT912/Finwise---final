@@ -2,7 +2,7 @@
 // Sử dụng URL từ biến môi trường, nếu không có thì dùng URL local
 const API_BASE_URL =
   process.env.EXPO_PUBLIC_API_URL ||
-  "http://192.168.2.32:3003" ||
+  "http://172.20.10.2:3003" ||
   "http://172.20.10.2:3000";
 
 // Log URL để debug
